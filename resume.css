@@ -37,6 +37,7 @@ h2 { font-size: 152%;}
 h3, h4 { font-size: 122%; }
 h1, h2, h3, h4 { color: #4c4c4c; }
 p { font-size: 100%; line-height: 18px; padding-right: 3em; }
+.des li { font-size: 100%; line-height: 18px; padding-right: 3em; }
 a { color: #ffffff }
 a:hover { text-decoration: none; }
 strong { font-weight: bold; }
@@ -57,6 +58,7 @@ a#pdf:hover { background: #222; }
 .job { position: relative; margin-bottom: 1em; padding-bottom: 1em; border-bottom: 1px solid #ccc; }
 .job h4 { position: absolute; top: 0.35em; right: 0 }
 .job p { margin: 0.75em 0 3em 0; }
+.des li  { margin: 0.75em 0 1em 0; }
 
 .last { border: none; }
 .skills-list ul { margin: 0; }
